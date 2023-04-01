@@ -1,0 +1,3 @@
+[submodule "qcells-it-meetup-handson"]
+	path = qcells-it-meetup-handson
+	url = https://github.com/QENEST/qcells-it-meetup-handson.git
