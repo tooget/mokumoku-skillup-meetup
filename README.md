@@ -8,8 +8,9 @@
 | 順番 | 日時 | イベント名・リンク | ステータス |
 | -- | -- | -- | -- | 
 | 15 | 2023-06-03(土) 13:00~19:00 | TBD | 開催予定 |
-| 15 | 2023-05-27(土) 13:00~19:00 | TBD | 開催予定 |
-| 14 | 2023-05-20(土) 13:00~19:00 | [【第14回・WeWork原宿】もくもくスキルアップしよっ会](https://github.com/QENEST/mokumoku-skillup-meetup/blob/main/docs/【第13回・WeWork原宿】もくもくスキルアップしよっ会_20230520.md) | 開催済み |
+| 15 | 2023-06-03(土) 13:00~19:00 | TBD | 開催予定 |
+| 15 | 2023-05-27(土) 13:00~19:00 | [【第15回・WeWork原宿】もくもくスキルアップしよっ会](https://github.com/QENEST/mokumoku-skillup-meetup/blob/main/docs/【第15回・WeWork原宿】もくもくスキルアップしよっ会_20230527.md) | 開催済み |
+| 14 | 2023-05-20(土) 13:00~19:00 | [【第14回・WeWork原宿】もくもくスキルアップしよっ会](https://github.com/QENEST/mokumoku-skillup-meetup/blob/main/docs/【第14回・WeWork原宿】もくもくスキルアップしよっ会_20230520.md) | 開催済み |
 | 13 | 2023-05-13(土) 13:00~19:00 | [【第13回・WeWork原宿】もくもくスキルアップしよっ会](https://github.com/QENEST/mokumoku-skillup-meetup/blob/main/docs/【第13回・WeWork原宿】もくもくスキルアップしよっ会_20230513.md) | 開催済み |
 | 12 | 2023-04-22(土) 13:00~19:00 | [【第12回・WeWork原宿】もくもくスキルアップしよっ会](https://github.com/QENEST/mokumoku-skillup-meetup/blob/main/docs/【第12回・WeWork原宿】もくもくスキルアップしよっ会_20230422.md) | 開催済み|
 | 11 | 2023-04-15(土) 13:00~19:00 | [【第11回・WeWork原宿】もくもくスキルアップしよっ会](https://github.com/QENEST/mokumoku-skillup-meetup/blob/main/docs/【第11回・WeWork原宿】もくもくスキルアップしよっ会_20230415.md) | 開催済み|
