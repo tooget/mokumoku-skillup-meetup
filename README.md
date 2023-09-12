@@ -7,7 +7,8 @@
 
 | 順番 | 日時 | イベント名・リンク | ステータス |
 | -- | -- | -- | -- | 
-| 30 | 2023-09-09(土) 13:00~19:00 | TBD | 開催予定 |
+| 31 | 2023-09-16(土) 13:00~19:00 | TBD | 開催予定 |
+| 30 | 2023-09-09(土) 13:00~19:00 | [【第28回・Y-Valley代々木】もくもくスキルアップしよっ会](https://github.com/tooget/mokumoku-skillup-meetup/blob/main/docs/【第28回・Y-Valley代々木】もくもくスキルアップしよっ会_20230909.md) | 開催済み |
 | 29 | 2023-09-02(土) 13:00~19:00 | [【第27回・Y-Valley代々木】もくもくスキルアップしよっ会](https://github.com/tooget/mokumoku-skillup-meetup/blob/main/docs/【第27回・Y-Valley代々木】もくもくスキルアップしよっ会_20230902.md) | 開催済み |
 | 28 | 2023-08-26(土) 13:00~19:00 | [【第26回・Y-Valley代々木】もくもくスキルアップしよっ会](https://github.com/tooget/mokumoku-skillup-meetup/blob/main/docs/【第26回・Y-Valley代々木】もくもくスキルアップしよっ会_20230826.md) | 開催済み |
 | 27 | 2023-08-19(土) 11:00~16:00 | [【第25回・Y-Valley代々木】もくもくスキルアップしよっ会](https://github.com/tooget/mokumoku-skillup-meetup/blob/main/docs/【第25回・Y-Valley代々木】もくもくスキルアップしよっ会_20230819.md) | 開催済み |
