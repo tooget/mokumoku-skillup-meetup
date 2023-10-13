@@ -10,7 +10,8 @@
 
 | 順番 | 日時 | イベント名・リンク | ステータス |
 | -- | -- | -- | -- | 
-| 34 | 2023-09-23(土) 13:00~19:00 | TBD | 開催予定 |
+| 34 | 2023-10-14(土) 13:00~19:00 | TBD | 開催予定 |
+| 34 | 2023-10-07(土) 13:00~19:00 | [【第31回・Y-Valley代々木】もくもくリスキリングしよっ会](https://github.com/tooget/mokumoku-skillup-meetup/blob/main/docs/【第31回・Y-Valley代々木】もくもくリスキリングしよっ会_20231007.md) | 開催済み |
 | 33 | 2023-09-30(土) 13:00~19:00 | 予定なし | 予定なし |
 | 32 | 2023-09-23(土) 13:00~19:00 | [【第30回・Y-Valley代々木】もくもくリスキリングしよっ会](https://github.com/tooget/mokumoku-skillup-meetup/blob/main/docs/【第30回・Y-Valley代々木】もくもくリスキリングしよっ会_20230923.md) | 開催済み |
 | 31 | 2023-09-16(土) 13:00~19:00 | [【第29回・Y-Valley代々木】もくもくリスキリングしよっ会](https://github.com/tooget/mokumoku-skillup-meetup/blob/main/docs/【第29回・Y-Valley代々木】もくもくリスキリングしよっ会_20230916.md) | 開催済み |
